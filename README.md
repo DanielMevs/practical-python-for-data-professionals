@@ -37,3 +37,4 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 [lil-course-url]: https://www.linkedin.com/learning/practical-python-for-data-professionals?dApp=59033956
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/C4E0DAQETD1gwhfHXzQ/learning-public-crop_288_512/0/1679070533731?e=2147483647&v=beta&t=cZOv2OkBmFcHpa85T8J5E5ai2zUFA4t_BafI2FJ2HRQ
 # Solving-Real-World-Problems-with-Python-Data-Analysis
+# Solving-Real-World-Problems-with-Python-Data-Analysis
